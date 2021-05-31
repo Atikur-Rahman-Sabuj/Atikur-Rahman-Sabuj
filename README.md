@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atikur-Rahman-Sabuj
+- 👋 Hi, I’m Atikur Rahman Sabuj
 - 👀 I’m interested in front end and mobile development
 - 🌱 I’m currently learning flutter and nextjs
 - 📫 I’m currently working in ByteCode which is in Dhaka, Bangladesh.

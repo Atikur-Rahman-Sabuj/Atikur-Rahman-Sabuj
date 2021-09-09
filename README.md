@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Atikur Rahman Sabuj
-- 👀 I’m interested in front end and mobile development
-- 🌱 I’m currently learning flutter and nextjs
+- 👀 I’m interested in front end and mobile development also in game development 
 - 📫 I’m currently working in ByteCode which is in Dhaka, Bangladesh.
 - 📲 Reach me at sabuj.kucse@gmail.com.
 

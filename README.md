@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atikur Rahman Sabuj
-- 👀 I’m interested in front end and mobile development also in game development 
-- 📫 I’m currently working in ByteCode which is in Dhaka, Bangladesh.
-- 📲 Reach me at sabuj.kucse@gmail.com.
+- 👀 I’m a fullstack web and mobile developer
+- 📫 I’m currently working in Cefalo Bangladesh.
+- 📲 You can reach me at sabuj.kucse@gmail.com.
 
 <!---
 Atikur-Rahman-Sabuj/Atikur-Rahman-Sabuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

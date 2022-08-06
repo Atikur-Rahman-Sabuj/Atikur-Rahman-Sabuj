@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atikur Rahman Sabuj
-- 👀 I’m a fullstack web and mobile developer
+- 👀 Who is a fullstack web and mobile developer, experienced with ReactJS, NodeJS, ReactNative, Flutter
 - 📫 I’m currently working in Cefalo Bangladesh.
 - 📲 You can reach me at sabuj.kucse@gmail.com.
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atikur Rahman Sabuj
 - 👀 Who is a fullstack web and mobile developer,
   experienced with mainly ReactJS, NodeJS, ReactNative and Flutter
-- 📫 I’m currently working in Cefalo Bangladesh.
+- 📫 I’m currently working at Agoda.
 - 📲 You can reach me at sabuj.kucse@gmail.com.
 
 <!---
